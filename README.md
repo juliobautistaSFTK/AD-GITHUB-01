@@ -10,7 +10,7 @@
 [Ver](Instrucciones/Readme_action_codespaces.md)
 
 
-# **Ejercicio: Uso de SQL (Structure Language Query). (Aviso: Este ejercicio forma parte de 3 en total)**
+# **Ejercicio: Uso de GITHUB, git clone, git pull, git push, git compare, deshacer un merge, borrar un Branch, Action manual y automáticos.**
 
 Prerrequisito: Haber tomado los cursos internos de SQL (Structure Language Query).
 
