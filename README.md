@@ -17,8 +17,8 @@ Prerrequisito: Conocimientos básicos en uso de repositorios.
 
 
 # **Cómo evaluar:**
-Este ejercicio forma parte de 3 en total, la siguiente tabla muestra cómo se tomarán las entregas para la calificación.
-![Descripción de la imagen](Imagenes/Img55.png) 
+Este ejercicio tiene 3 grandes temas, cada tema tiene un valor de 25% sumando un 75%.
+La participacion tiene un valor del 25%
 
 
 # Evitar el plagio
