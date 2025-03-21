@@ -8,10 +8,13 @@
 
 # **Ejercicio: Uso de GITHUB, git clone, git pull, git push, git compare, deshacer un merge, borrar un Branch, Action manual y automáticos.**
 
-Prerrequisito: Haber tomado los cursos internos de SQL (Structure Language Query).
+Prerrequisito: Conocimientos básicos en uso de repositorios.
 
 # **Objetivos:**
-Leer y seguir los pasos del documento Ejercicio_Comun_SWENG_TRJRPR y completar las tareas descritas correspondientes a la sección "Temas: SQL (Structure Language Query)."
+1. uso de comandos básicos
+2. uso de branch
+3. useo de Actions
+
 
 # **Cómo evaluar:**
 Este ejercicio forma parte de 3 en total, la siguiente tabla muestra cómo se tomarán las entregas para la calificación.
