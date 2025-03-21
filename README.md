@@ -18,8 +18,9 @@ Prerrequisito: Conocimientos básicos en uso de repositorios.
 
 # **Cómo evaluar:**
 Este ejercicio tiene 3 grandes temas, cada tema tiene un valor de 25% sumando un 75%.
-La participacion tiene un valor del 25%
+La participacion tiene un valor del 25%.
 
+Entregar en github con base a las instrucciones.
 
 # Evitar el plagio
 Es de vital importancia no copiar la solución de otro colaborador, esto generará una práctica desleal y se levantará un Warning.
