@@ -11,9 +11,9 @@
 Prerrequisito: Conocimientos básicos en uso de repositorios.
 
 # **Objetivos:**
-1. uso de comandos básicos
-2. uso de branch
-3. useo de Actions
+1. Uso de comandos básicos
+2. Uso de branch
+3. Uso de Actions
 
 
 # **Cómo evaluar:**
